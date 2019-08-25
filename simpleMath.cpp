@@ -39,7 +39,4 @@ int main()
     while(cin >> a)
         cout << "Result:" << doit(a) << endl;
 }
-
-
-~                                                                                                                                                                                                                                                                 
-~                 
+                                                                                                                                                                                                                                                         
