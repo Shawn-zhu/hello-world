@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "vsicons.presets.angular": true
+}
